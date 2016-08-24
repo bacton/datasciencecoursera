@@ -1,0 +1,100 @@
+Variable name,Variable label,Units,Valid range,Value indicating missing data,Value indicating inapplicable data
+activity_label,Subject activity during observation,N/A,,N/A,N/A
+subject_id,Subject identifier,N/A,1-30,N/A,N/A
+tbodyacc_mean_x,Time Domain Mean of body accel in X dim,"""G""s","[-1,1]",N/A,N/A
+tbodyacc_mean_y,Time Domain Mean of body accel in Y dim,"""G""s","[-1,1]",N/A,N/A
+tbodyacc_mean_z,Mean of body accel in Z dim,"""G""s","[-1,1]",N/A,N/A
+tbodyacc_std_x,Time Domain Std. Dev. of body accel in X dim,"""G""s","[-1,1]",N/A,N/A
+tbodyacc_std_y,Time Domain Std. Dev. of body accel in Y dim,"""G""s","[-1,1]",N/A,N/A
+tbodyacc_std_z,Time Domain Std. Dev. Of body accel in Z dim,"""G""s","[-1,1]",N/A,N/A
+tgravityacc_mean_x,Time Domain Mean of gravity accel in X dim,"""G""s","[-1,1]",N/A,N/A
+tgravityacc_mean_y,Time Domain Mean of gravity accel in Y dim,"""G""s","[-1,1]",N/A,N/A
+tgravityacc_mean_z,Time Domain Mean of gravity accel in Z dim,"""G""s","[-1,1]",N/A,N/A
+tgravityacc_std_x,Time Domain Std. Dev of gravity accel in X dim,"""G""s","[-1,1]",N/A,N/A
+tgravityacc_std_y,Time Domain Std. Dev of gravity accel in Y dim,"""G""s","[-1,1]",N/A,N/A
+tgravityacc_std_z,Time Domain Std. Dev of gravity accel in Z dim,"""G""s","[-1,1]",N/A,N/A
+tbodyaccjerk_mean_x,Time Domain Mean of body accel jerk signal in X dim,"""G""s","[-1,1]",N/A,N/A
+tbodyaccjerk_mean_y,Time Domain Mean of body accel jerk signal in Y dim,"""G""s","[-1,1]",N/A,N/A
+tbodyaccjerk_mean_z,Time Domain Mean of body accel jerk signal in Z dim,"""G""s","[-1,1]",N/A,N/A
+tbodyaccjerk_std_x,Time Domain Std. Dev of body accel jerk signal in X dim,"""G""s","[-1,1]",N/A,N/A
+tbodyaccjerk_std_y,Time Domain Std. Dev of body accel jerk signal in Y dim,"""G""s","[-1,1]",N/A,N/A
+tbodyaccjerk_std_z,Time Domain Std. Dev of body accel jerk signal in Z dim,"""G""s","[-1,1]",N/A,N/A
+tbodygyro_mean_x,Time Domain Mean of gyro signal in X dim,Radians/sec,"[-1,1]",N/A,N/A
+tbodygyro_mean_y,Time Domain Mean of gyro signal in Y dim,Radians/sec,"[-1,1]",N/A,N/A
+tbodygyro_mean_z,Time Domain Mean of gyro signal in Z dim,Radians/sec,"[-1,1]",N/A,N/A
+tbodygyro_std_x,Time Domain Std. Dev of gyro signal in X dim,Radians/sec,"[-1,1]",N/A,N/A
+tbodygyro_std_y,Time Domain Std. Dev of gyro  signal in Y dim,Radians/sec,"[-1,1]",N/A,N/A
+tbodygyro_std_z,Time Domain Std. Dev of gyro signal in Z dim,Radians/sec,"[-1,1]",N/A,N/A
+tbodygyrojerk_mean_x,Time Domain Mean of gyro jerk signal in X dim,Radians/sec,"[-1,1]",N/A,N/A
+tbodygyrojerk_mean_y,Time Domain Mean of gyro jerk signal in Y dim,Radians/sec,"[-1,1]",N/A,N/A
+tbodygyrojerk_mean_z,Time Domain Mean of gyro jerk signal in Z dim,Radians/sec,"[-1,1]",N/A,N/A
+tbodygyrojerk_std_x,Time Domain Std. Dev. of gyro jerk signal in X dim,Radians/sec,"[-1,1]",N/A,N/A
+tbodygyrojerk_std_y,Time Domain Std. Dev. of gyro jerk signal in Y dim,Radians/sec,"[-1,1]",N/A,N/A
+tbodygyrojerk_std_z,Time Domain Std. Dev. of gyro jerk signal in Z dim,Radians/sec,"[-1,1]",N/A,N/A
+tbodyaccmag_mean,Time Domain Mean of body accel magnitude,"""G""s","[-1,1]",N/A,N/A
+tbodyaccmag_std,Time Domain Std. Dev. of body accel magnitude,"""G""s","[-1,1]",N/A,N/A
+tgravityaccmag_mean,Time Domain Mean of gravity accel magnitude,"""G""s","[-1,1]",N/A,N/A
+tgravityaccmag_std,Time Domain Std. Dev. of gravity accel magnitude,"""G""s","[-1,1]",N/A,N/A
+tbodyaccjerkmag_mean,Time Domain Mean of body accel jerk magnitude,"""G""s","[-1,1]",N/A,N/A
+tbodyaccjerkmag_std,Time Domain Std. Dev. of body accel jerk magnitude,"""G""s","[-1,1]",N/A,N/A
+tbodygyromag_mean,Time Domain Mean of gyro signal magnitude,Radians/sec,"[-1,1]",N/A,N/A
+tbodygyromag_std,Time Domain Std. Dev. of gyro signal magnitude,Radians/sec,"[-1,1]",N/A,N/A
+tbodygyrojerkmag_mean,Time Domain Mean of gyro jerk signal magnitude,Radians/sec,"[-1,1]",N/A,N/A
+tbodygyrojerkmag_std,Time Domain Std. Dev. of gyro signal magnitude,Radians/sec,"[-1,1]",N/A,N/A
+fbodyacc_mean_x,Frequency Domain Mean of body accel in X dim,"""G""s","[-1,1]",N/A,N/A
+fbodyacc_mean_y,Frequency Domain Mean of body accel in Y dim,"""G""s","[-1,1]",N/A,N/A
+fbodyacc_mean_z,Frequency Domain Mean of body accel in Z dim,"""G""s","[-1,1]",N/A,N/A
+fbodyacc_std_x,Frequency Domain Std. Dev. of body accel in X dim,"""G""s","[-1,1]",N/A,N/A
+fbodyacc_std_y,Frequency Domain Std. Dev. of body accel in Y dim,"""G""s","[-1,1]",N/A,N/A
+fbodyacc_std_z,Frequency Domain Std. Dev. of body accel in Z dim,"""G""s","[-1,1]",N/A,N/A
+fbodyacc_meanfreq_x,Frequency Domain Mean frequency of body accel in X dim,Radians/sec,"[-1,1]",N/A,N/A
+fbodyacc_meanfreq_y,Frequency Domain Mean frequency of body accel in Y dim,Radians/sec,"[-1,1]",N/A,N/A
+fbodyacc_meanfreq_z,Frequency Domain Mean frequency of body accel in Z dim,Radians/sec,"[-1,1]",N/A,N/A
+fbodyaccjerk_mean_x,FrequencY Domain Mean of body accel jerk signal in X dim,"""G""s","[-1,1]",N/A,N/A
+fbodyaccjerk_mean_y,Frequency Domain Mean of body accel jerk signal in Y dim,"""G""s","[-1,1]",N/A,N/A
+fbodyaccjerk_mean_z,Frequency Domain Mean of body accel jerk signal in Z dim,"""G""s","[-1,1]",N/A,N/A
+fbodyaccjerk_std_x,Frequency Domain Std. Dev. of body accel jerk signal in X dim,"""G""s","[-1,1]",N/A,N/A
+fbodyaccjerk_std_y,Frequency Domain Std. Dev. of body accel jerk signal in Y dim,"""G""s","[-1,1]",N/A,N/A
+fbodyaccjerk_std_z,Frequency Domain Std. Dev. of body accel jerk signal in Z dim,"""G""s","[-1,1]",N/A,N/A
+fbodyaccjerk_meanfreq_x,Frequency Domain Mean frequency of body accel jerk signal in X dim,Radians/sec,"[-1,1]",N/A,N/A
+fbodyaccjerk_meanfreq_y,Frequency Domain Mean frequency of body accel jerk signal in Y dim,Radians/sec,"[-1,1]",N/A,N/A
+fbodyaccjerk_meanfreq_z,Frequency Domain Mean frequency of body accel jerk signal in Z dim,Radians/sec,"[-1,1]",N/A,N/A
+fbodygyro_mean_x,Frequency Domain Mean of gyro signal in X dim,Radians/sec,"[-1,1]",N/A,N/A
+fbodygyro_mean_y,Frequency Domain Mean of gyro signal in Y dim,Radians/sec,"[-1,1]",N/A,N/A
+fbodygyro_mean_z,Frequency Domain Mean of gyro signal in Z dim,Radians/sec,"[-1,1]",N/A,N/A
+fbodygyro_std_x,Frequency Domain Std. Dev. of gyro signal in X dim,Radians/sec,"[-1,1]",N/A,N/A
+fbodygyro_std_y,Frequency Domain Std. Dev. of gyro signal in Y dim,Radians/sec,"[-1,1]",N/A,N/A
+fbodygyro_std_z,Frequency Domain Std. Dev. of gyro signal in Z dim,Radians/sec,"[-1,1]",N/A,N/A
+fbodygyro_meanfreq_x,Frequency Domain Mean frequency of gyro signal in X dim,Radians/sec,"[-1,1]",N/A,N/A
+fbodygyro_meanfreq_y,Frequency Domain Mean frequency of gyro signal in Y dim,Radians/sec,"[-1,1]",N/A,N/A
+fbodygyro_meanfreq_z,Frequency Domain Mean frequency of gyro signal in Z dim,Radians/sec,"[-1,1]",N/A,N/A
+fbodyaccmag_mean,Frequency Domain Mean of body accel magnitude,"""G""s","[-1,1]",N/A,N/A
+fbodyaccmag_std,Frequency Domain Std. Dev. of body accel magnitude,"""G""s","[-1,1]",N/A,N/A
+fbodyaccmag_meanfreq,Frequency Domain Mean frequency of body accel magnitude,Radians/sec,"[-1,1]",N/A,N/A
+fbodybodyaccjerkmag_mean,Frequency Domain Mean of body accel jerk signal magnitude,"""G""s","[-1,1]",N/A,N/A
+fbodybodyaccjerkmag_std,Frequency Domain Std. Dev. of body accel jerk signal magnitude,"""G""s","[-1,1]",N/A,N/A
+fbodybodyaccjerkmag_meanfreq,Frequency Domain Mean frequency of body accel jerk signal,Radians/sec,"[-1,1]",N/A,N/A
+fbodybodygyromag_mean,Frequency Domain Mean of gyro signal magnitude,Radians/sec,"[-1,1]",N/A,N/A
+fbodybodygyromag_std,Frequency Domain Std. Dev. of gyro signal magnitude,Radians/sec,"[-1,1]",N/A,N/A
+fbodybodygyromag_meanfreq,Frequency Domain Mean frequency of gyro signal,Radians/sec,"[-1,1]",N/A,N/A
+fbodybodygyrojerkmag_mean,Frequency Domain Mean of gyro jerk signal magnitude,Radians/sec,"[-1,1]",N/A,N/A
+fbodybodygyrojerkmag_std,Frequency Domain Std. Dev. of gyro jerk signal magnitude,Radians/sec,"[-1,1]",N/A,N/A
+fbodybodygyrojerkmag_meanfreq,Frequency Domain Mean frequency of gyro jerk signal,Radians/sec,"[-1,1]",N/A,N/A
+total_accel_x_mean,Mean of total accel in X dim,"""G""s","[-1,1]",N/A,N/A
+total_accel_x_sd,Std. Dev. of total accel in X dim,"""G""s","[-1,1]",N/A,N/A
+total_accel_y_mean,Mean of total accel in Y dim,"""G""s","[-1,1]",N/A,N/A
+total_accel_y_sd,Std. Dev. of total accel in Y dim,"""G""s","[-1,1]",N/A,N/A
+total_accel_z_mean,Mean of total accel in Z dim,"""G""s","[-1,1]",N/A,N/A
+total_accel_z_sd,Std. Dev. of total accel in Z dim,"""G""s","[-1,1]",N/A,N/A
+est_body_accel_x_mean,Mean of estimated body accel in X dim,"""G""s","[-1,1]",N/A,N/A
+est_body_accel_x_sd,Std. Dev. of estimated body accel in X dim,"""G""s","[-1,1]",N/A,N/A
+est_body_accel_y_mean,Mean of estimated body accel in Y dim,"""G""s","[-1,1]",N/A,N/A
+est_body_accel_y_sd,Std. Dev. of estimated body accel in Y dim,"""G""s","[-1,1]",N/A,N/A
+est_body_accel_z_mean,Mean of estimated body accel in Z dim,"""G""s","[-1,1]",N/A,N/A
+est_body_accel_z_sd,Std. Dev. of estimated body accel in Z dim,"""G""s","[-1,1]",N/A,N/A
+gyro_velocity_x_mean,Mean of gyro velocity in X dim,Radians/sec,"[-1,1]",N/A,N/A
+gyro_velocity_x_sd,Std. Dev. of gyro velocity in X dim,Radians/sec,"[-1,1]",N/A,N/A
+gyro_velocity_y_mean,Mean of gyro velocity in Y dim,Radians/sec,"[-1,1]",N/A,N/A
+gyro_velocity_y_sd,Std. Dev. of gyro velocity in Y dim,Radians/sec,"[-1,1]",N/A,N/A
+gyro_velocity_z_mean,Mean of gyro velocity in Z dim,Radians/sec,"[-1,1]",N/A,N/A
+gyro_velocity_z_sd,Std. Dev. of gyro velocity in Z dim,Radians/sec,"[-1,1]",N/A,N/A
