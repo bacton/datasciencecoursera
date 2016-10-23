@@ -398,6 +398,10 @@ clean_data_set <- function() {
     # Wrote out the result to a .CSV file:
     # write.csv(combined_table_cleaned_grouped, "combined_tbl_cleaned_grouped_wip.csv")
     
+    # Write the "output" tidy data set to a text file. 
+    # (This text file must be submitted separately when
+    # submitting the course project work.)
+    write.table(combined_table, "tidy_data_set.txt", row.names = FALSE)
     # Return the dataframe after all processing steps
     # are complete
     combined_table
