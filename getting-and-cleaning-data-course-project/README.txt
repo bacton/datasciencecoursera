@@ -34,6 +34,10 @@ environment:
 (7) The dataframe returned in (6-ii) is the final, tidy data set with the
 average of each variable, ordered by each activity and each subject, as
 per the requirements.
+(8) A text file named "tidy_data_set.txt" will be created in the 'UCI HAR
+Dataset' subdirectory. This is the "output" tidy data set produced by the
+"run_analysis.R" script, that must be uploaded separately as part of the
+submission process for this course project.
 
 Notes:
 ======
